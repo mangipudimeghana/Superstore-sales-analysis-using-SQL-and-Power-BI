@@ -1,4 +1,4 @@
-# Superstore-sales-analysis-using-SQL-and-Power-BI
+# Superstore sales analysis using SQL and Power BI
 
 # Problem Statement
 
